@@ -1,0 +1,3 @@
+= keycloak-resource-server-demo
+
+This application was created using the steps described in https://github.com/paulojeronimo/keycloak-spring-boot-tutorial#lab-f2[keycloak-spring-boot-tutorial].
